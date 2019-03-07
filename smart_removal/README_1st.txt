@@ -44,11 +44,7 @@ C. RUNNING THE EXECUTABLES
      Assuming you've already ran the command above, you can use the
      following
 	
-	 viscomp.py --compositing \
-	            --alphaIn alpha.tif \
-	 			--colIn col.tif \
-	            --backIn ../test-images/tiny/window.jpg \
-	            --compOut comp.jpg
+	 viscomp.py --compositing --alphaIn alpha.tif --colIn col.tif --backIn ../test-images/tiny/window.jpg --compOut comp.jpg
 
 C. TEST IMAGES
 
