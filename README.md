@@ -1,6 +1,6 @@
 # smart_removal
 
-In smart removal
+In triangulation matting
 
 1. Triangulation matting 
 
